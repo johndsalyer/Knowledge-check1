@@ -28,4 +28,4 @@ To Do:
 
 4. Switch out cat photo in `About Me` section, with a photo of your own choosing. You must download and add the photo to the `img` folder 
 
-5. BONUS: Add a `Contact` section below the `Projects` section. Add contact information (real/fake use your best judgement), social media, links, embed a google map, etc.
+5. BONUS: Add a `Contact` section below the `Projects` section. Add contact information (real/fake use your best judgement), social media, links, embed a google map, etc.# Knowledge-check1
